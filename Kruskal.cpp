@@ -1,3 +1,9 @@
+/*
+     Feito por Thiago Vieira <thiagovieiraas@gmail.com>
+     
+     O kruskal descobre a árvore geradora mínima de um grafo.
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>
