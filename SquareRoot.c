@@ -2,7 +2,7 @@
 * Feito por Thiago Vieira <thiagovieiraas@gmail.com>
 *
 * Programa que calcula a raiz de um número real qualquer.
-* Para desenvolver este programa usei o método de Newton-Raphson.
+* Para desenvolver este algoritmo usei o método de Newton-Raphson.
 *
 * Data: 18-11-2012
 */
