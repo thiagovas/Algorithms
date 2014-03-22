@@ -1,3 +1,11 @@
+/*
+	Feito por Thiago Vieira <thiagovieiraas@gmail.com>
+	
+	Algoritmo simples para calcular o módulo de uma potência. (a^e)%n
+	http://en.wikipedia.org/wiki/Modular_exponentiation
+*/
+
+
 #include <cstdlib>
 #include <cstring>
 #include <iostream>
