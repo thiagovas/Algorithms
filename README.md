@@ -4,9 +4,9 @@ Algorithms-And-Data-Structures
 Alguns algoritmos e estruturas de dados que implementei.<br/>
 Some algorithms and data structures implemented by me
 
-### TODO<br/>
+### TODO
   Data Structures:<br/>
-    * **Stack**<br/>
+&nbsp;* **Stack**<br/>
     * **Queue**<br/>
     * **Segment Tree**<br/>
     * **Heap**<br/>
