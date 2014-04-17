@@ -6,7 +6,7 @@ Alguns algoritmos e estruturas de dados que implementei.
 Some algorithms and data structures implemented by me
 
 TODO: 
-  Data Structures:
+  Data Structures:<br/>
     * [**Stack**]
     * Queue
     * Segment Tree
