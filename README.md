@@ -5,7 +5,7 @@ Alguns algoritmos e estruturas de dados que implementei.
 
 Some algorithms and data structures implemented by me
 
-TODO: 
+#TODO: 
   Data Structures:
     * Stack
     * Queue
