@@ -5,20 +5,23 @@ Alguns algoritmos e estruturas de dados que implementei.<br/>
 Some algorithms and data structures implemented by me
 
 ### TODO
-  Data Structures:<br/>
+&nbsp;&nbsp;Data Structures:<br/>
 <ul>
-    <li>*Stack*</li>
-    * **Queue**<br/>
-    * **Segment Tree**<br/>
-    * **Heap**<br/>
-    * **Red-Black Tree**<br/>
-    * **Trie**<br/><br/>
+    <li>Stack</li>
+    <li>Queue</li>
+    <li>Segment Tree</li>
+    <li>Heap</li>
+    <li>Red-Black Tree</li>
+    <li>Trie</li>
+</ul><br/>
+
+&nbsp;&nbsp;Algorithms:<br/>
+<ul>
+    <li>Floyd-Warshall</li>
+    <li>Bellman-Ford</li>
+    <li>Huffman coding</li>
+    <li>Quicksort</li>
+    <li>Mergesort</li>
+    <li>Heapsort</li>
+    <li>Push-Relabel</li>
 </ul>
-  Algorithms:<br/>
-    * **Floyd-Warshall**<br/>
-    * **Bellman-Ford**<br/>
-    * **Huffman coding**<br/>
-    * **Quicksort**<br/>
-    * **Mergesort**<br/>
-    * **Heapsort**<br/>
-    * **Push-Relabel**<br/>
