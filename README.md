@@ -6,13 +6,14 @@ Some algorithms and data structures implemented by me
 
 ### TODO
   Data Structures:<br/>
-&nbsp;* **Stack**<br/>
+<ul>
+    <li>**Stack**</li>
     * **Queue**<br/>
     * **Segment Tree**<br/>
     * **Heap**<br/>
     * **Red-Black Tree**<br/>
     * **Trie**<br/><br/>
-  
+</ul>
   Algorithms:<br/>
     * **Floyd-Warshall**<br/>
     * **Bellman-Ford**<br/>
