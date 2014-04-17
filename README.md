@@ -6,7 +6,7 @@ Some algorithms and data structures implemented by me
 
 TODO:<br/>
   Data Structures:<br/>
-    * [**Stack**]<br/>
+    * Stack*<br/>
     * Queue<br/>
     * Segment Tree<br/>
     * Heap<br/>
