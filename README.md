@@ -13,6 +13,8 @@ Some algorithms and data structures implemented by me
     <li>Heap</li>
     <li>Red-Black Tree</li>
     <li>Trie</li>
+    <li>Bloom Filter</li>
+    <li>Skip List</li>
 </ul>
 
 &nbsp;&nbsp;Algorithms:
