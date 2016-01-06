@@ -15,6 +15,7 @@ Some algorithms and data structures implemented by me
     <li>Trie</li>
     <li>Bloom Filter</li>
     <li>Skip List</li>
+    <li>BST - Binary Search Tree</li>
 </ul>
 
 &nbsp;&nbsp;Algorithms:
