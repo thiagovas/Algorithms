@@ -12,7 +12,7 @@
 #include <functional>
 using namespace std;
 
-#define INF 2100000000
+#define INF 0x3f3f3f3f
 
 typedef pair<int, int> PII;
 
