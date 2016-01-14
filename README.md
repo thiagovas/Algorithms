@@ -2,12 +2,11 @@ Algorithms-And-Data-Structures
 ==============================
 
 Alguns algoritmos e estruturas de dados que implementei.<br/>
-Some algorithms and data structures implemented by me
+Some algorithms and data structures implemented by me.
 
 ### TODO
 &nbsp;&nbsp;Data Structures:
 <ul>
-    <li>Stack</li>
     <li>Queue</li>
     <li>Segment Tree</li>
     <li>Heap</li>
